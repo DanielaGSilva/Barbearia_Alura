@@ -1,5 +1,7 @@
 # Barbearia_Alura
 
+ https://danielagsilva.github.io/Barbearia_Alura/
+
 Site criado nas aulas de HTML5 e CSS3 do curso Alura da OracleOne com o instrutor Pedro Marins.
 
 Faça esse curso de HTML e CSS e:
