@@ -14,7 +14,7 @@ Desenvolva um página Web.
 CONTEÚDO:
 * Separando o conteúdo e informações
 
-8 Trabalhando com CSS
+* Trabalhando com CSS
 
 * Estilizando imagens
 
